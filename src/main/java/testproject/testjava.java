@@ -8,7 +8,11 @@ public class testjava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("JAVA IS ");
+		System.out.println("JAVA IS ");
+		int y, a = 4, b = 5;
+		y = a + b;
+		System.out.println("sum" + y);
+
 	}
 
 }
